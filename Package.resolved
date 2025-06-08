@@ -1,0 +1,15 @@
+{
+  "originHash" : "718c97b2c7a85e0aedc367e4ef183191ed22b7ef59cbef3e8dd432a4e781cfaa",
+  "pins" : [
+    {
+      "identity" : "core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rakeshashastri/Core.git",
+      "state" : {
+        "revision" : "c07ec0530ac001adc639796dc2d38b9f5119b5a9",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
