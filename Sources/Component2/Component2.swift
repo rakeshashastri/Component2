@@ -1,2 +1,8 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+import Core
+
+public class Component2 {
+
+    public func print() -> String {
+        Core().print()
+    }
+}
