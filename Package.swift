@@ -12,7 +12,7 @@ let package = Package(
             targets: ["Component2"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/rakeshashastri/Core.git", from: "0.0.1"),
+        .package(url: "https://github.com/rakeshashastri/Core.git", exact: "0.1.3"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
